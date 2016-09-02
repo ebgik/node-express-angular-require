@@ -1,0 +1,17 @@
+{
+  "name": "game",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Dmitry Pankratov <spawn9106@mail.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

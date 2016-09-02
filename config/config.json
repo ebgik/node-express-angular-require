@@ -1,0 +1,7 @@
+{
+	"port" : 3000,
+	"bd_host" : "localhost",
+	"bd_user"	: "root",
+	"bd_pass"	: "ebgik1991",
+	"bd_name"	: "mesh"
+}
